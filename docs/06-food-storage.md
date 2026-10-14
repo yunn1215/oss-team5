@@ -11,6 +11,15 @@
 
 ### 2-1. 식품 종류별 특징
 
+| 식품 분류 | 보관할 때 살펴볼 점 |
+| --- | --- |
+| 육류·생선·해산물 | 육즙이 다른 식품에 닿지 않도록 따로 포장합니다. 곧 사용하지 않을 식품은 냉동 보관을 고려합니다. |
+| 우유·유제품·달걀 | 제품의 보관 표시를 확인합니다. 달걀은 원래 포장에 담아 냉장실 안쪽 선반에 둡니다. |
+| 냉장 보관이 필요한 채소·과일 | 생고기와 분리해 보관하고, 먹거나 손질하기 전에 흐르는 물로 씻습니다. |
+| 조리한 음식·바로 먹는 식품 | 깨끗한 용기에 담아 생식재료와 분리합니다. 남은 음식은 얕은 용기에 나누어 신속히 냉장합니다. |
+
+*표 1. FoodSafety.gov, FDA와 공공보건기관의 안내를 바탕으로 정리한 식품 분류 예시입니다.[\[1\]](#ref-1)[\[2\]](#ref-2)[\[3\]](#ref-3)*
+
 ### 2-2. 보관 방법과 소비기한 확인
 
 ## 3. 보관 용기와 포장
@@ -44,3 +53,4 @@
 
 1. <a id="ref-1"></a>**「4 Steps to Food Safety」** — 미국 보건복지부(HHS), FoodSafety.gov. 식품·도구 분리, 누출 방지 포장, 남은 음식의 신속 냉장과 냉장 해동. [자료 링크](https://www.foodsafety.gov/keep-food-safe/4-steps-to-food-safety)
 2. <a id="ref-2"></a>**「Are You Storing Food Safely?」** — 미국 식품의약국(FDA). 달걀의 내부 선반 보관, 냉동의 한계와 품질 변화. [자료 링크](https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely)
+3. <a id="ref-3"></a>**「Home Food Safety」** — 미국 콜로라도주 Grand County 공공보건기관. 생식재료를 아래에 분리하는 이유와 교차오염 설명, CDC 그림 1·3 제공. [자료 링크](https://www.co.grand.co.us/1491/Home-Food-Safety)
