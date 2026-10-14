@@ -46,4 +46,4 @@ flowchart LR
 ```
 ### 참고 자료
 - UNEP Ozone Secretariat, Montreal Protocol: https://ozone.unep.org
-- Wikipedia, Montreal Protocol: https://en.wikipedia.org/wiki/Montreal_Protocol
+- Wikipedia, Montreal Protocol(몬트리올 의정서): https://en.wikipedia.org/wiki/Montreal_Protocol
