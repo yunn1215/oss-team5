@@ -43,3 +43,7 @@ flowchart LR
     B --> C[HFC]
     C --> D[자연냉매]
 ```
+### 참고 자료
+
+- UNEP Ozone Secretariat, Montreal Protocol: https://ozone.unep.org
+- Wikipedia, Montreal Protocol: https://en.wikipedia.org/wiki/Montreal_Protocol
