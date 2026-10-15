@@ -56,6 +56,11 @@
 
 먹거나 손질하기 전에는 흐르는 물로 씻되 비누나 주방세제를 사용하지 않습니다. 오이나 멜론처럼 표면이 단단한 농산물은 깨끗한 전용 솔로 문지를 수 있고, 씻은 뒤에는 깨끗한 천이나 종이타월로 물기를 제거합니다. 껍질을 먹지 않는 멜론도 자르기 전에 씻어야 칼이 표면의 오염을 과육으로 옮기는 것을 줄일 수 있습니다. 반대로 포장에 ‘세척 완료’ 또는 ‘바로 섭취 가능’이라고 적힌 샐러드 채소는 다시 씻다가 오염된 싱크대나 도구와 접촉하지 않게 합니다.[\[9\]](#ref-9)
 
+### 2-5. 조리한 음식과 바로 먹는 식품
+
+김치·나물·샐러드·잘라 놓은 과일처럼 바로 꺼내 먹는 음식은 생식재료보다 접촉 관리가 더 중요합니다. 예를 들어 생고기를 담았던 접시에 익힌 불고기를 다시 올리거나, 생선 포장 바로 아래에 뚜껑 없는 반찬을 두면 조리 후에도 오염이 옮겨갈 수 있습니다. 이런 음식은 깨끗한 용기에 덮어 보관하고 생식재료의 포장과 도구에서 분리합니다.[\[1\]](#ref-1)[\[3\]](#ref-3)
+
+저녁에 끓인 찌개가 많이 남았다면 큰 냄비째 식탁에 두고 잠들기 전에 넣는 방식은 피합니다. 먹을 양으로 나누어 얕은 용기에 담으면 큰 덩어리보다 빠르게 식힐 수 있습니다. FoodSafety.gov와 CDC는 상하기 쉬운 식품이 냉장 상태를 벗어나 있었던 **전체 시간을 2시간 이내**로 제한하고, 기온이 **32℃를 넘는 환경에서는 1시간 이내**에 냉장하도록 안내합니다. 이 시간에는 음식을 차린 때부터 식사하고 정리하기까지 상온에 놓여 있던 시간이 모두 포함됩니다.[\[1\]](#ref-1)[\[3\]](#ref-3)[\[10\]](#ref-10)
 
 ## 3. 보관 용기와 포장
 
@@ -87,3 +92,4 @@
 7. <a id="ref-7"></a>**「Q&A로 알아보는 ‘소비기한 표시제’ ①」** — 식품의약품안전처, 대한민국 정책브리핑 게재, 2023.01.30. 소비기한, 보관 조건, 개봉 식품 주의사항. [자료 링크](https://www.korea.kr/news/policyNewsView.do?newsId=148911057)
 8. <a id="ref-8"></a>**「What You Need to Know About Egg Safety」** — 미국 식품의약국(FDA). 달걀 구입, 원래 포장과 냉장 보관 안내. [자료 링크](https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety)
 9. <a id="ref-9"></a>**「Selecting and Serving Produce Safely」** — 미국 식품의약국(FDA). 농산물의 구입·냉장·분리·세척 안내. [자료 링크](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely)
+10. <a id="ref-10"></a>**「Leftovers and Food Safety」** — 미국 농무부 식품안전검사국(USDA FSIS). 상온 2시간 기준, 남은 음식의 신속한 냉각과 얕은 용기, 냉장 3~4일 보관 안내. [자료 링크](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety)
