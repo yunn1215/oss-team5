@@ -113,3 +113,40 @@
 문을 열기 전에 꺼낼 물건을 생각해 두고, 자주 사용하는 식품의 위치를 정해 두면 찾는 시간을 줄일 수 있습니다. 조리 중에도 문을 열어 둔 채로 다른 일을 하기보다 필요한 식품을 꺼내고 문을 닫습니다.
 
 참고: [호주 정부 에너지 안내 — Appliances](https://www.energy.gov.au/households/appliances)
+
+### 냉기 통로를 막지 않기
+
+식품이나 보관 용기가 냉기가 나오는 통로를 가리지 않도록 정리합니다. 내용물을 빈틈없이 채워 넣기보다 공기가 흐를 공간을 남기고, 냉기 출구의 위치는 제품 사용설명서에서 확인합니다.
+
+큰 용기를 넣거나 식품을 많이 보충한 뒤에는 냉기 통로와 문 닫힘 상태를 함께 살펴봅니다. 용기가 앞으로 튀어나오거나 선반이 잘못 끼워져 있으면 문이 완전히 닫히지 않을 수 있으므로, 위치를 조정한 뒤 다시 확인합니다.
+
+참고: [LG전자 — 냉장실이 시원하지 않을 때 확인 사항](https://gscs.lge.com/gscs/collpack/contents/readChatbotContents.do?contentsId=20151481615362&corporation=LGEKR)
+
+## 5. 정기 관리 체크리스트
+
+### 평소 사용하면서 확인할 사항
+
+앞에서 설명한 사용과 관리 방법을 다음 체크리스트로 정리했습니다. 식품을 넣거나 꺼낼 때 눈에 띄는 오염이나 문 닫힘 상태를 함께 살펴보면 관리할 부분을 발견하기 쉽습니다.
+
+- [ ] 사용 후 문이 완전히 닫혔나요?
+- [ ] 보관 용기나 식품이 문 닫힘을 방해하지 않나요?
+- [ ] 식품이나 용기가 냉기 통로를 가리지 않나요?
+- [ ] 선반과 서랍에 흘린 음식물이 없나요?
+- [ ] 문 패킹에 음식물이나 이물질이 묻어 있지 않나요?
+- [ ] 청소한 부품의 물기를 제거하고 제자리에 조립했나요?
+
+오염이나 이상을 발견하면 해당 항목의 설명을 다시 확인합니다. 구체적인 청소 주기와 부품 관리 방법은 모델별 사용설명서를 기준으로 정합니다.
+
+## 6. 참고자료
+
+본문에서 참고한 자료를 아래에 모았습니다. 설치 치수와 관리 방법은 제품별로 다를 수 있으므로 실제 사용 시에는 해당 모델의 최신 사용설명서를 우선 확인합니다.
+
+| 제공 기관 | 자료 | 참고한 내용 |
+| --- | --- | --- |
+| LG전자 | [냉장고 카탈로그](https://www.lge.co.kr/kr/ebook/2025/may/best/catImage/551/202505_best_catalogue.pdf) | 모델별 설치 공간 |
+| 삼성전자서비스 | [냉장고 설치 시 유의사항](https://www.samsungsvc.co.kr/solution/21276) | 설치 환경, 바닥과 수평 |
+| LG전자 | [양문형 냉장고 제품 사용설명서](https://gscs-b2c.lge.com/open/downloadFile?fileId=CuBb7IYvbOG0C4tWuwwsOQ) | 내부 청소, 물기 제거, 문 패킹 관리 |
+| LG전자 | [일반 냉장고 제품 사용설명서](https://gscs-b2c.lge.com/open/downloadFile?fileId=tLv0c3iiTKHMcuF2M5dZAQ) | 냄새 제거 시 주의사항 |
+| LG전자 | [냉장고 사용설명서의 냄새 관련 안내](https://www.lge.co.kr/upload/PDF/CNZ/24130/1112081646_0806041607_EBAX00027A_R-051%2C101GD.pdf) | 밀폐 용기 사용 |
+| 호주 정부 | [Appliances](https://www.energy.gov.au/households/appliances) | 문을 열어 두는 시간 줄이기 |
+| LG전자 | [냉장실이 시원하지 않을 때 확인 사항](https://gscs.lge.com/gscs/collpack/contents/readChatbotContents.do?contentsId=20151481615362&corporation=LGEKR) | 냉기 순환과 문 닫힘 확인 |
