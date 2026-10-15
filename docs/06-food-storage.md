@@ -34,6 +34,9 @@
 
 *표 1. FoodSafety.gov, CDC, FDA의 식품 분리·냉장 안내를 바탕으로 정리한 분류입니다.[\[1\]](#ref-1)[\[2\]](#ref-2)[\[3\]](#ref-3)*
 
+![장바구니에서 생고기와 채소를 다른 봉투에 담는 CDC 안내 그림](images/06-food-storage/06-figure-1-cdc-shopping-separation.jpg)
+
+*그림 1. 식품의 분리는 냉장고 앞이 아니라 장보기 단계부터 시작됩니다. 생고기·가금류·해산물은 장바구니와 포장 봉투에서 다른 식품과 분리하여 육즙이 닿지 않게 합니다. 제작: 미국 질병통제예방센터(CDC).[\[4\]](#ref-4)*
 
 ### 2-2. 보관 방법과 소비기한 확인
 
@@ -69,3 +72,4 @@
 1. <a id="ref-1"></a>**「4 Steps to Food Safety」** — 미국 보건복지부(HHS), FoodSafety.gov. 냉장 4℃ 이하·냉동 −18℃ 이하, 상온 2시간·32℃ 초과 시 1시간 기준과 해동 안내. [자료 링크](https://www.foodsafety.gov/keep-food-safe/4-steps-to-food-safety)
 2. <a id="ref-2"></a>**「Are You Storing Food Safely?」** — 미국 식품의약국(FDA). 냉장·냉동 온도, 양념에 재우기, 정전 시 냉장고 약 4시간·가득 찬 냉동실 약 48시간 유지 조건과 식품 판단 기준. [자료 링크](https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely)
 3. <a id="ref-3"></a>**「Preventing Food Poisoning」** — 미국 질병통제예방센터(CDC). 식품 분리, 손과 도구 세척, 신속한 냉장, 안전한 해동 안내. [자료 링크](https://www.cdc.gov/food-safety/prevention/)
+4. <a id="ref-4"></a>**「For a Safe Plate, Don’t Cross-Contaminate」** — 미국 질병통제예방센터(CDC). 장보기와 냉장고 안의 식품 분리 그림 및 교차오염 예방 안내. [자료 링크](https://www.cdc.gov/food-safety/media/pdfs/fsem-2022-508.pdf)
