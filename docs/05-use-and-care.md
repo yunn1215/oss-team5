@@ -136,3 +136,17 @@
 - [ ] 청소한 부품의 물기를 제거하고 제자리에 조립했나요?
 
 오염이나 이상을 발견하면 해당 항목의 설명을 다시 확인합니다. 구체적인 청소 주기와 부품 관리 방법은 모델별 사용설명서를 기준으로 정합니다.
+
+## 6. 참고자료
+
+본문에서 참고한 자료를 아래에 모았습니다. 설치 치수와 관리 방법은 제품별로 다를 수 있으므로 실제 사용 시에는 해당 모델의 최신 사용설명서를 우선 확인합니다.
+
+| 제공 기관 | 자료 | 참고한 내용 |
+| --- | --- | --- |
+| LG전자 | [냉장고 카탈로그](https://www.lge.co.kr/kr/ebook/2025/may/best/catImage/551/202505_best_catalogue.pdf) | 모델별 설치 공간 |
+| 삼성전자서비스 | [냉장고 설치 시 유의사항](https://www.samsungsvc.co.kr/solution/21276) | 설치 환경, 바닥과 수평 |
+| LG전자 | [양문형 냉장고 제품 사용설명서](https://gscs-b2c.lge.com/open/downloadFile?fileId=CuBb7IYvbOG0C4tWuwwsOQ) | 내부 청소, 물기 제거, 문 패킹 관리 |
+| LG전자 | [일반 냉장고 제품 사용설명서](https://gscs-b2c.lge.com/open/downloadFile?fileId=tLv0c3iiTKHMcuF2M5dZAQ) | 냄새 제거 시 주의사항 |
+| LG전자 | [냉장고 사용설명서의 냄새 관련 안내](https://www.lge.co.kr/upload/PDF/CNZ/24130/1112081646_0806041607_EBAX00027A_R-051%2C101GD.pdf) | 밀폐 용기 사용 |
+| 호주 정부 | [Appliances](https://www.energy.gov.au/households/appliances) | 문을 열어 두는 시간 줄이기 |
+| LG전자 | [냉장실이 시원하지 않을 때 확인 사항](https://gscs.lge.com/gscs/collpack/contents/readChatbotContents.do?contentsId=20151481615362&corporation=LGEKR) | 냉기 순환과 문 닫힘 확인 |
