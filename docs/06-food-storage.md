@@ -38,6 +38,12 @@
 
 *그림 1. 식품의 분리는 냉장고 앞이 아니라 장보기 단계부터 시작됩니다. 생고기·가금류·해산물은 장바구니와 포장 봉투에서 다른 식품과 분리하여 육즙이 닿지 않게 합니다. 제작: 미국 질병통제예방센터(CDC).[\[4\]](#ref-4)*
 
+### 2-2. 육류·가금류·생선·해산물
+
+마트에서 산 생닭이나 고등어 포장은 계산대에서는 멀쩡했어도 집에 오는 동안 눌려 이음새에서 육즙이 샐 수 있습니다. 냉장고에 넣기 전에 포장 바닥이 젖었는지 확인하고, 원래 포장째 뚜껑이 있는 용기나 새지 않는 봉투에 한 번 더 담습니다. 샐러드나 반찬 위에 올려놓지 말고, 누출되더라도 다른 식품으로 흐르지 않는 아래쪽에 받침과 함께 둡니다.[\[3\]](#ref-3)[\[5\]](#ref-5)
+
+‘고기는 모두 같은 기간 냉장 보관해도 괜찮다’고 생각해서는 안 됩니다. FoodSafety.gov의 가정용 보관표는 **냉장고 4℃ 이하**를 전제로, 다진 고기와 생가금류는 **1~2일**, 소·송아지·양·돼지고기의 스테이크·찹·로스트는 **3~5일**로 구분합니다. 오늘 산 다진 고기를 다음 주에 사용할 계획이라면 냉장실에 그대로 두지 말고 제품 표시를 확인해 냉동 여부를 결정합니다. 이 기간은 미국 정부의 가정용 보관 지침이며 국내 제품의 소비기한이 아니므로, 국내 제품은 포장에 표시된 보관 조건과 소비기한을 우선합니다.[\[6\]](#ref-6)
+
 
 ## 3. 보관 용기와 포장
 
@@ -64,3 +70,5 @@
 2. <a id="ref-2"></a>**「Are You Storing Food Safely?」** — 미국 식품의약국(FDA). 냉장·냉동 온도, 양념에 재우기, 정전 시 냉장고 약 4시간·가득 찬 냉동실 약 48시간 유지 조건과 식품 판단 기준. [자료 링크](https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely)
 3. <a id="ref-3"></a>**「Preventing Food Poisoning」** — 미국 질병통제예방센터(CDC). 식품 분리, 손과 도구 세척, 신속한 냉장, 안전한 해동 안내. [자료 링크](https://www.cdc.gov/food-safety/prevention/)
 4. <a id="ref-4"></a>**「For a Safe Plate, Don’t Cross-Contaminate」** — 미국 질병통제예방센터(CDC). 장보기와 냉장고 안의 식품 분리 그림 및 교차오염 예방 안내. [자료 링크](https://www.cdc.gov/food-safety/media/pdfs/fsem-2022-508.pdf)
+5. <a id="ref-5"></a>**「Refrigeration & Food Safety」** — 미국 농무부 식품안전검사국(USDA FSIS). 냉장고 배치, 밀봉, 냉기 순환과 해동 안내. [자료 링크](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/refrigeration)
+6. <a id="ref-6"></a>**「Cold Food Storage Chart」** — FoodSafety.gov. 냉장 4℃ 이하를 전제로 한 다진 고기·생가금류 1~2일, 스테이크·찹·로스트 3~5일, 조리된 남은 음식 3~4일 등의 식품별 보관표. [자료 링크](https://www.foodsafety.gov/food-safety-charts/cold-food-storage-charts)
