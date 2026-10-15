@@ -62,6 +62,12 @@
 
 저녁에 끓인 찌개가 많이 남았다면 큰 냄비째 식탁에 두고 잠들기 전에 넣는 방식은 피합니다. 먹을 양으로 나누어 얕은 용기에 담으면 큰 덩어리보다 빠르게 식힐 수 있습니다. FoodSafety.gov와 CDC는 상하기 쉬운 식품이 냉장 상태를 벗어나 있었던 **전체 시간을 2시간 이내**로 제한하고, 기온이 **32℃를 넘는 환경에서는 1시간 이내**에 냉장하도록 안내합니다. 이 시간에는 음식을 차린 때부터 식사하고 정리하기까지 상온에 놓여 있던 시간이 모두 포함됩니다.[\[1\]](#ref-1)[\[3\]](#ref-3)[\[10\]](#ref-10)
 
+### 2-6. 냉장·냉동 온도 확인
+
+식품의약품안전처·식품안전나라는 냉장 식품을 **5℃ 이하**, 냉동 식품을 **−18℃ 이하**로 보관하도록 안내합니다. 미국 FoodSafety.gov의 가정용 기준은 냉장고 **4℃ 이하**, 냉동고 **−18℃ 이하**입니다. 서로 다른 기관의 수치를 하나로 섞지 않고 국내에서는 제품 표시와 식약처 안내를 우선하며, 이 문서에서 미국 보관 기간표를 적용할 때는 그 표의 조건인 4℃ 이하를 함께 밝힙니다.[\[1\]](#ref-1)[\[11\]](#ref-11)
+
+냉장고 표시창의 설정 온도와 문 쪽이나 식품 사이의 실제 온도는 다를 수 있습니다. 큰 냄비가 냉기 출구를 막고 있거나 음료수 병이 문이 닫히는 것을 방해하면 내부 온도가 높아질 수 있습니다. FDA 안내처럼 냉장고용 온도계를 내부 앞쪽의 읽기 쉬운 위치에 두고 실제 온도를 정기적으로 확인합니다. 국내 식약처 기준인 5℃를 계속 넘는다면 설정값만 낮추지 말고 문 패킹, 냉기 출구, 식품을 채운 정도와 사용설명서의 설치 조건을 함께 확인합니다.[\[2\]](#ref-2)[\[5\]](#ref-5)[\[11\]](#ref-11)
+
 ## 3. 보관 용기와 포장
 
 
@@ -93,3 +99,4 @@
 8. <a id="ref-8"></a>**「What You Need to Know About Egg Safety」** — 미국 식품의약국(FDA). 달걀 구입, 원래 포장과 냉장 보관 안내. [자료 링크](https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety)
 9. <a id="ref-9"></a>**「Selecting and Serving Produce Safely」** — 미국 식품의약국(FDA). 농산물의 구입·냉장·분리·세척 안내. [자료 링크](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely)
 10. <a id="ref-10"></a>**「Leftovers and Food Safety」** — 미국 농무부 식품안전검사국(USDA FSIS). 상온 2시간 기준, 남은 음식의 신속한 냉각과 얕은 용기, 냉장 3~4일 보관 안내. [자료 링크](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety)
+11. <a id="ref-11"></a>**「지켜줘요 보관온도!」** — 식품의약품안전처·식품안전나라, 2024.07.10. 국내 냉장 식품 5℃ 이하·냉동 식품 −18℃ 이하 보관 안내. [자료 링크](https://www.foodsafetykorea.go.kr/portal/board/boardDetail.do?bbs_no=bbs404&menu_no=4422&ntctxt_no=1100180)
