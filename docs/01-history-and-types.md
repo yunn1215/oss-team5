@@ -47,3 +47,9 @@ flowchart LR
 ### 참고 자료
 - UNEP Ozone Secretariat, Montreal Protocol: https://ozone.unep.org
 - Wikipedia, Montreal Protocol(몬트리올 의정서): https://en.wikipedia.org/wiki/Montreal_Protocol
+
+## 3. 가정용 냉장고
+### 3-1. 상부 기계형 냉장고 (1910~1920년대)
+### 3-2. 냉동실의 등장 (1930~1950년대)
+### 3-3. 상하 분리형 냉장고 (1950~1980년대)
+### 3-4. 현재의 가정용 냉장고 (1980년대 이후) 
