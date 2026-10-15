@@ -91,3 +91,15 @@ flowchart LR
 </table>
 
 ### 3-4. 현재의 가정용 냉장고 (1980년대 이후) 
+<table>
+<tr>
+<td width="45%" valign="top" align="center">
+<img width="1000" height="1000" alt="modern-fridge" src="https://github.com/user-attachments/assets/96af2ea7-23bd-4810-b7d8-cf7be4232eb6" />
+  <br>
+</td>
+<td width="55%" valign="top">
+1980년대 이후 가정용 냉장고는 에너지 효율과 편의성을 중심으로 발전했습니다. 인버터 압축기가 도입되면서 냉각 능력을 세밀하게 조절하고 전력 소비를 줄일 수 있게 되었습니다. 또한 양문형 냉장고, 김치냉장고 등 다양한 형태와 용도의 제품이 등장했습니다. 최근에는 스마트 기능과 식품별 맞춤 보관 기능 등이 추가되면서 냉장고는 단순한 식품 보관 기기를 넘어 편리하고 효율적인 생활 가전으로 발전하고 있습니다.
+
+</td>
+</tr>
+</table>
