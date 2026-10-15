@@ -50,7 +50,18 @@ flowchart LR
 
 ## 3. 가정용 냉장고
 ### 3-1. 상부 기계형 냉장고 (1910~1920년대)
-가정용 냉장고가 처음 등장했을 때는 압축기와 모터가 냉장고 위쪽에 놓여 있었습니다. 1927년 미국 GE의 모니터 톱(Monitor Top)이 대표적인 예입니다. 기계가 크고 무거워 가격이 비쌌고, 가정에서 쓰기에는 부담이 컸습니다.
+<table>
+<tr>
+<td width="45%" valign="top" align="center">
+  <img width="278" height="345" alt="monitortop" src="https://github.com/user-attachments/assets/1acc3f9a-3a79-4467-b7a7-9156ab1ff1ee" />
+  <br>
+</td>
+<td width="55%" valign="top">
+  가정용 냉장고가 처음 등장했을 때는 압축기와 모터가 냉장고 위쪽에 놓여 있었습니다. 1927년 미국 GE의 모니터 톱(Monitor Top)이 대표적인 예입니다.<br><br>
+  기계가 크고 무거워 가격이 비쌌고, 가정에서 쓰기에는 부담이 컸습니다.
+</td>
+</tr>
+</table>
 
 ### 3-2. 냉동실의 등장 (1930~1950년대)
 ### 3-3. 상하 분리형 냉장고 (1950~1980년대)
