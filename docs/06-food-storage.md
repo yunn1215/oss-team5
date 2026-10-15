@@ -44,6 +44,14 @@
 
 ‘고기는 모두 같은 기간 냉장 보관해도 괜찮다’고 생각해서는 안 됩니다. FoodSafety.gov의 가정용 보관표는 **냉장고 4℃ 이하**를 전제로, 다진 고기와 생가금류는 **1~2일**, 소·송아지·양·돼지고기의 스테이크·찹·로스트는 **3~5일**로 구분합니다. 오늘 산 다진 고기를 다음 주에 사용할 계획이라면 냉장실에 그대로 두지 말고 제품 표시를 확인해 냉동 여부를 결정합니다. 이 기간은 미국 정부의 가정용 보관 지침이며 국내 제품의 소비기한이 아니므로, 국내 제품은 포장에 표시된 보관 조건과 소비기한을 우선합니다.[\[6\]](#ref-6)
 
+### 2-3. 우유·유제품·달걀
+
+우유, 생크림, 요구르트처럼 비슷해 보이는 유제품도 제품마다 냉장 여부와 개봉 후 안내가 다릅니다. 표시된 소비기한이 남은 요구르트라도 이미 개봉했다면 미개봉 제품과 같은 조건으로 볼 수 없습니다. 개봉한 날짜를 포장 윗부분에 적고, ‘개봉 후 냉장 보관’이나 ‘개봉 후 빠른 섭취’ 같은 표시를 따라 사용합니다.[\[7\]](#ref-7)
+
+달걀은 구입할 때 껍데기가 깨지지 않았는지 확인합니다. 집에 온 뒤 냉장고 문에 달린 달걀 칸으로 하나씩 옮기기보다, 구입한 포장에 그대로 넣어 냉장실 내부 선반에 둡니다. 문 쪽은 여닫을 때마다 온도가 변하지만 내부 선반은 상대적으로 일정한 온도를 유지하기 쉽습니다. 원래 포장을 남겨 두면 달걀을 충격에서 보호하고 포장에 적힌 날짜도 함께 확인할 수 있습니다.[\[1\]](#ref-1)[\[8\]](#ref-8)
+
+
+
 
 ## 3. 보관 용기와 포장
 
@@ -72,3 +80,5 @@
 4. <a id="ref-4"></a>**「For a Safe Plate, Don’t Cross-Contaminate」** — 미국 질병통제예방센터(CDC). 장보기와 냉장고 안의 식품 분리 그림 및 교차오염 예방 안내. [자료 링크](https://www.cdc.gov/food-safety/media/pdfs/fsem-2022-508.pdf)
 5. <a id="ref-5"></a>**「Refrigeration & Food Safety」** — 미국 농무부 식품안전검사국(USDA FSIS). 냉장고 배치, 밀봉, 냉기 순환과 해동 안내. [자료 링크](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/refrigeration)
 6. <a id="ref-6"></a>**「Cold Food Storage Chart」** — FoodSafety.gov. 냉장 4℃ 이하를 전제로 한 다진 고기·생가금류 1~2일, 스테이크·찹·로스트 3~5일, 조리된 남은 음식 3~4일 등의 식품별 보관표. [자료 링크](https://www.foodsafety.gov/food-safety-charts/cold-food-storage-charts)
+7. <a id="ref-7"></a>**「Q&A로 알아보는 ‘소비기한 표시제’ ①」** — 식품의약품안전처, 대한민국 정책브리핑 게재, 2023.01.30. 소비기한, 보관 조건, 개봉 식품 주의사항. [자료 링크](https://www.korea.kr/news/policyNewsView.do?newsId=148911057)
+8. <a id="ref-8"></a>**「What You Need to Know About Egg Safety」** — 미국 식품의약국(FDA). 달걀 구입, 원래 포장과 냉장 보관 안내. [자료 링크](https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety)
