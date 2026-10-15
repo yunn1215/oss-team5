@@ -133,10 +133,10 @@ flowchart LR
     EXP["팽창장치<br/>(모세관)"]
     CTRL["제어부"]
 
-    EVA -->|"저압 기체"| COMP
+    EVA --> COMP
     COMP -->|"고온·고압 기체"| COND
     COND -->|"고압 액체"| EXP
-    EXP -->|"저압 액체"| EVA
+    EXP --> EVA
 
     SEN -.->|"온도 정보"| CTRL
     CTRL -.-> COMP
