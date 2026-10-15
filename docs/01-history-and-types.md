@@ -53,7 +53,7 @@ flowchart LR
 <table>
 <tr>
 <td width="45%" valign="top" align="center">
-  <img width="278" height="345" alt="monitortop" src="https://github.com/user-attachments/assets/1acc3f9a-3a79-4467-b7a7-9156ab1ff1ee" />
+  <img width="200" height="260" alt="monitortop" src="https://github.com/user-attachments/assets/1acc3f9a-3a79-4467-b7a7-9156ab1ff1ee" />
   <br>
 </td>
 <td width="55%" valign="top">
@@ -64,5 +64,18 @@ flowchart LR
 </table>
 
 ### 3-2. 냉동실의 등장 (1930~1950년대)
+<table>
+<tr>
+<td width="45%" valign="top" align="center">
+  <img width="200" height="220" alt="first-freezer" src="https://github.com/user-attachments/assets/4b80375a-da41-425e-a6a8-c53a3bb6daa1" />
+  <br>
+</td>
+<td width="55%" valign="top">
+  초기 냉장고에는 음식을 차갑게 보관하는 칸만 있었습니다. 1930~1950년대에 냉장 칸 안에 얼음을 만드는 작은 냉동 칸이 생기면서, 얼음이나 아이스크림을 집에서 보관할 수 있게 되었습 
+니다. 이후 1950~1970년대에는 냉장실과 냉동실이 위아래로 나뉜 상하 분리형 구조가 자리 잡았습니다. 지금 많이 보는 냉장고의 기본 형태가 이때 만들어졌습니다.
+</td>
+</tr>
+</table>
+
 ### 3-3. 상하 분리형 냉장고 (1950~1980년대)
 ### 3-4. 현재의 가정용 냉장고 (1980년대 이후) 
