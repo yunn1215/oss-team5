@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="260" viewBox="0 0 960 260" role="img" aria-labelledby="title desc">
+<title id="title">냉장고 청소 순서</title>
+<desc id="desc">준비, 분리, 청소, 마무리 순서. 세부 절차는 모델별 사용설명서를 따릅니다.</desc>
+<rect width="960" height="260" rx="20" fill="#f1f5f9"/>
+<g font-family="Apple SD Gothic Neo, Malgun Gothic, sans-serif" text-anchor="middle">
+<text x="480" y="40" font-size="24" font-weight="bold" fill="#0f172a">냉장고 청소 순서</text>
+<rect x="25" y="70" width="205" height="125" rx="14" fill="white" stroke="#94a3b8"/>
+<text x="127" y="105" font-size="18" fill="#2563eb">1단계</text>
+<text x="127" y="138" font-size="23" font-weight="bold" fill="#0f172a">준비</text>
+<text x="127" y="170" font-size="15" fill="#334155">설명서·도구 확인</text>
+<path d="M 235 132 h 18 m -7 -7 l 7 7 -7 7" fill="none" stroke="#64748b" stroke-width="2"/>
+<rect x="260" y="70" width="205" height="125" rx="14" fill="white" stroke="#94a3b8"/>
+<text x="362" y="105" font-size="18" fill="#2563eb">2단계</text>
+<text x="362" y="138" font-size="23" font-weight="bold" fill="#0f172a">분리</text>
+<text x="362" y="170" font-size="15" fill="#334155">식품 제거 후 부품 분리</text>
+<path d="M 470 132 h 18 m -7 -7 l 7 7 -7 7" fill="none" stroke="#64748b" stroke-width="2"/>
+<rect x="495" y="70" width="205" height="125" rx="14" fill="white" stroke="#94a3b8"/>
+<text x="597" y="105" font-size="18" fill="#2563eb">3단계</text>
+<text x="597" y="138" font-size="23" font-weight="bold" fill="#0f172a">청소</text>
+<text x="597" y="170" font-size="15" fill="#334155">허용된 방법으로 닦기</text>
+<path d="M 705 132 h 18 m -7 -7 l 7 7 -7 7" fill="none" stroke="#64748b" stroke-width="2"/>
+<rect x="730" y="70" width="205" height="125" rx="14" fill="white" stroke="#94a3b8"/>
+<text x="832" y="105" font-size="18" fill="#2563eb">4단계</text>
+<text x="832" y="138" font-size="23" font-weight="bold" fill="#0f172a">마무리</text>
+<text x="832" y="170" font-size="15" fill="#334155">물기 제거·조립 확인</text>
+<text x="480" y="232" font-size="16" fill="#475569">세부 청소·분리·전원 차단 절차는 해당 모델의 사용설명서를 따르세요.</text>
+</g></svg>
