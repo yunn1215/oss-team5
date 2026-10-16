@@ -37,6 +37,7 @@ flowchart LR
 냉매는 시대마다 바뀌어 왔습니다. 초기 기계식 냉동에는 암모니아와 이산화황이 쓰였지만 독성과 가연성 때문에 위험했습니다. 1930년대에 이보다 안전한 합성 냉매 프레온(CFC)이 개발되면서 냉장고를 가정에서도 쓸 수 있게 되었습니다.
 
 그러나 1980년대에 프레온이 오존층을 파괴한다는 사실이 밝혀졌습니다. 이에 1987년 몬트리올 의정서가 채택되어 프레온의 생산과 사용이 줄어들었습니다. 이후 HFC 계열 냉매가 쓰였지만 지구온난화에 영향을 준다는 문제가 있어, 지금은 이산화탄소나 탄화수소 같은 자연냉매로 옮겨 가는 중입니다.
+
 ```mermaid
 flowchart LR
     A[암모니아·이산화황] --> B[프레온 CFC]
@@ -44,6 +45,61 @@ flowchart LR
     C --> D[자연냉매]
 ```
 ### 참고 자료
-
 - UNEP Ozone Secretariat, Montreal Protocol: https://ozone.unep.org
-- Wikipedia, Montreal Protocol: https://en.wikipedia.org/wiki/Montreal_Protocol
+- Wikipedia, Montreal Protocol(몬트리올 의정서): https://en.wikipedia.org/wiki/Montreal_Protocol
+
+## 3. 가정용 냉장고
+### 3-1. 상부 기계형 냉장고 (1910~1920년대)
+<table>
+<tr>
+<td width="45%" valign="top" align="center">
+  <img width="200" height="260" alt="monitortop" src="https://github.com/user-attachments/assets/1acc3f9a-3a79-4467-b7a7-9156ab1ff1ee" />
+  <br>
+</td>
+<td width="55%" valign="top">
+  가정용 냉장고가 처음 등장했을 때는 압축기와 모터가 냉장고 위쪽에 놓여 있었습니다. 1927년 미국 GE의 모니터 톱(Monitor Top)이 대표적인 예입니다.<br><br>
+  기계가 크고 무거워 가격이 비쌌고, 가정에서 쓰기에는 부담이 컸습니다.
+</td>
+</tr>
+</table>
+
+### 3-2. 냉동실의 등장 (1930~1950년대)
+<table>
+<tr>
+<td width="45%" valign="top" align="center">
+    <img width="1284" height="1738" alt="first-freezer" src="https://github.com/user-attachments/assets/1d0d843e-3c3d-4330-87e4-74262dc4eab1" />
+
+  <br>
+</td>
+<td width="55%" valign="top">
+  초기 냉장고에는 음식을 차갑게 보관하는 칸만 있었습니다. 1930~1950년대에 냉장 칸 안에 얼음을 만드는 작은 냉동 칸이 생기면서, 얼음이나 아이스크림을 집에서 보관할 수 있게 되었습니다.
+</td>
+</tr>
+</table>
+
+### 3-3. 상하 분리형 냉장고 (1950~1980년대)
+<table>
+<tr>
+<td width="45%" valign="top" align="center">
+  <img width="200" height="220" alt="first-freezer" src="https://github.com/user-attachments/assets/4b80375a-da41-425e-a6a8-c53a3bb6daa1" />
+  <br>
+</td>
+<td width="55%" valign="top">
+1950~1970년대에는 냉장실과 냉동실이 위아래로 분리된 상하 분리형 냉장고가 널리 보급되기 시작했습니다. 냉동실과 냉장실을 구분함으로써 식품의 종류에 따라 적절한 온도에서 보관할 수 있게 되었습니다. 이러한 구조는 이후 가정용 냉장고의 기본적인 형태로 자리 잡았으며, 오늘날에도 널리 사용되고 있습니다.
+</td>
+</tr>
+</table>
+
+### 3-4. 현재의 가정용 냉장고 (1980년대 이후) 
+<table>
+<tr>
+<td width="45%" valign="top" align="center">
+<img width="1000" height="1000" alt="modern-fridge" src="https://github.com/user-attachments/assets/96af2ea7-23bd-4810-b7d8-cf7be4232eb6" />
+  <br>
+</td>
+<td width="55%" valign="top">
+1980년대 이후 가정용 냉장고는 에너지 효율과 편의성을 중심으로 발전했습니다. 인버터 압축기가 도입되면서 냉각 능력을 세밀하게 조절하고 전력 소비를 줄일 수 있게 되었습니다. 또한 양문형 냉장고, 김치냉장고 등 다양한 형태와 용도의 제품이 등장했습니다. 최근에는 스마트 기능과 식품별 맞춤 보관 기능 등이 추가되면서 냉장고는 단순한 식품 보관 기기를 넘어 편리하고 효율적인 생활 가전으로 발전하고 있습니다.
+
+</td>
+</tr>
+</table>
