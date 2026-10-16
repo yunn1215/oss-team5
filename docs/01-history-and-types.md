@@ -113,7 +113,7 @@ flowchart LR
 <table>
 <tr>
 <td width="45%" valign="middle" align="center">
-  <img width="500" height="500" alt="commercial-fridge" src="https://github.com/user-attachments/assets/10811658-c77a-47c5-bc50-a93ea9bbde78" />
+  <img width="300" height="300" alt="commercial-fridge" src="https://github.com/user-attachments/assets/10811658-c77a-47c5-bc50-a93ea9bbde78" />
   <br>
 </td>
 <td width="55%" valign="middle">
@@ -127,3 +127,10 @@ flowchart LR
 
 
 ### 가정용과 업소용의 비교
+| 구분 | 가정용 냉장고 | 업소용 냉장고 |
+|---|---|---|
+| 사용 장소 | 가정 | 식당, 편의점, 마트, 공장 |
+| 보관량 | 가족 단위 | 대용량 |
+| 문 여닫는 횟수 | 적음 | 매우 많음 |
+| 압축기 | 조용하고 효율 중심 | 강한 냉각 성능 중심 |
+| 내부 소재 | 플라스틱 위주 | 스테인리스 위주 |
