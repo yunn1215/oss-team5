@@ -78,6 +78,11 @@
 
 ## 3. 보관 용기와 포장
 
+### 3-1. 식품용 용기 확인
+
+뚜껑이 맞는다고 해서 모든 용기를 식품 보관에 사용할 수 있는 것은 아닙니다. 다 쓴 세제 통이나 문구용 정리함처럼 원래 식품용이 아닌 제품은 깨끗이 씻었더라도 음식을 담지 않습니다. 용기 바닥이나 포장에서 **식품용** 표시, 재질, 사용 시 주의사항을 확인하고 용도가 분명한 제품을 선택합니다.[\[12\]](#ref-12)
+
+플라스틱 용기는 재질과 제조 방법에 따라 견딜 수 있는 온도가 다릅니다. 배달 음식이 담겨 왔다는 이유만으로 그 용기를 냉동하거나 전자레인지에 사용할 수 있다고 판단해서는 안 됩니다. `전자레인지 사용 가능`, `냉동 가능`, 내열온도 같은 표시를 확인하고, 표시를 찾을 수 없다면 해당 용도에 맞는 식품용 용기로 옮깁니다. 금이 갔거나 열로 휘어진 용기, 뚜껑 한쪽이 들뜨는 용기는 내용물이 새고 틈새를 세척하기 어려우므로 교체합니다.[\[12\]](#ref-12)
 
 
 ## 4. 냉장고 안의 보관 위치
@@ -108,3 +113,4 @@
 9. <a id="ref-9"></a>**「Selecting and Serving Produce Safely」** — 미국 식품의약국(FDA). 농산물의 구입·냉장·분리·세척 안내. [자료 링크](https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely)
 10. <a id="ref-10"></a>**「Leftovers and Food Safety」** — 미국 농무부 식품안전검사국(USDA FSIS). 상온 2시간 기준, 남은 음식의 신속한 냉각과 얕은 용기, 냉장 3~4일 보관 안내. [자료 링크](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety)
 11. <a id="ref-11"></a>**「지켜줘요 보관온도!」** — 식품의약품안전처·식품안전나라, 2024.07.10. 국내 냉장 식품 5℃ 이하·냉동 식품 −18℃ 이하 보관 안내. [자료 링크](https://www.foodsafetykorea.go.kr/portal/board/boardDetail.do?bbs_no=bbs404&menu_no=4422&ntctxt_no=1100180)
+12. <a id="ref-12"></a>**「식품용 기구 및 용기·포장 올바르게 사용해요!」** — 식품의약품안전처, 2024.09.13. 식품용 표시, 재질과 내열온도, 사용 시 주의사항. [자료 링크](https://www.mfds.go.kr/brd/m_580/view.do?seq=133)
