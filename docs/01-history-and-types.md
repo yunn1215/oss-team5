@@ -67,7 +67,7 @@ flowchart LR
 <table>
 <tr>
 <td width="45%" valign="top" align="center">
-    <img width="1284" height="1738" alt="first-freezer" src="https://github.com/user-attachments/assets/1d0d843e-3c3d-4330-87e4-74262dc4eab1" />
+    <img width="200" height="250" alt="first-freezer" src="https://github.com/user-attachments/assets/1d0d843e-3c3d-4330-87e4-74262dc4eab1" />
 
   <br>
 </td>
@@ -94,7 +94,7 @@ flowchart LR
 <table>
 <tr>
 <td width="45%" valign="top" align="center">
-<img width="1000" height="1000" alt="modern-fridge" src="https://github.com/user-attachments/assets/96af2ea7-23bd-4810-b7d8-cf7be4232eb6" />
+<img width="200" height="250" alt="modern-fridge" src="https://github.com/user-attachments/assets/96af2ea7-23bd-4810-b7d8-cf7be4232eb6" />
   <br>
 </td>
 <td width="55%" valign="top">
@@ -103,3 +103,8 @@ flowchart LR
 </td>
 </tr>
 </table>
+
+## 4. 업소용 냉장고
+### 4-1. 업소용 냉장고 특징
+### 4-2. 업소용 냉장고의 종류
+### 가정용과 업소용의 비교
