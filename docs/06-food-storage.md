@@ -174,6 +174,13 @@
 
 ## 6. 생활 속 예시와 그림
 
+### 6-1. 온라인 장보기와 밀키트가 도착했을 때
+
+현관 앞에 놓인 밀키트나 온라인 장보기 상자를 발견하면 도착 시각을 확인하고 가능한 한 바로 개봉합니다. 먼저 상자 바닥이 젖었는지, 외부 포장이 찢어지거나 눌렸는지 살펴본 뒤 생고기 팩의 액체가 채소나 소스 봉투에 닿았는지 확인합니다. 냉장 식품은 차가운 상태인지, 냉동 식품은 단단하게 얼어 있거나 얼음 결정이 남아 있는지도 차례로 살펴봅니다.[\[17\]](#ref-17)
+
+이상이 없다면 아이스팩과 포장재부터 정리하지 말고 냉동 식품과 냉장 식품을 먼저 해당 칸에 넣습니다. 생고기·가금류·해산물은 바로 먹는 재료와 분리하고, 포장 겉면에 액체가 묻었다면 새지 않는 용기에 넣은 뒤 액체가 닿은 다른 포장도 확인합니다. 아이스팩이 들어 있었다는 사실만으로 배송 중 식품 온도가 계속 안전했다고 단정하지 않습니다.
+
+냉장 식품이 따뜻하게 도착했거나 포장이 새고 손상됐다면 맛이나 냄새로 상태를 확인하지 않습니다. 포장 상태가 보이도록 사진을 찍고 도착 시각과 개봉 시각을 남긴 뒤 판매처에 처리 방법을 문의합니다. 배송 알림을 늦게 확인해 상자가 얼마나 오래 놓여 있었는지 알 수 없다면 그 불확실성도 판매처에 함께 알립니다.[\[17\]](#ref-17)
 
 
 ## 7. 정리
@@ -197,3 +204,4 @@
 14. <a id="ref-14"></a>**「How to Clean Your Refrigerator Because of a Food Recall」** — 미국 질병통제예방센터(CDC). 재사용 용기와 냉장고 선반·서랍·내부 표면의 세척 순서. [자료 링크](https://www.cdc.gov/food-safety/communication-resources/clean-refrigerator-steps.html)
 15. <a id="ref-15"></a>**「이달의 픽! ‘겨울철 노로바이러스’」** — 식품의약품안전처·식품안전나라, 2022.12.16. 조리·섭취 전 비누로 30초 이상 손 씻기와 칼·도마 구분 사용 안내. [자료 링크](https://www.foodsafetykorea.go.kr/portal/board/boardDetail.do?bbs_no=hpikbbs001&menu_grp=MENU_NEW05&menu_no=8083&ntctxt_no=1092666)
 16. <a id="ref-16"></a>**「CDC PHIL Image ID 27991」** — 미국 질병통제예방센터 공중보건 이미지 자료실(CDC PHIL). 생닭과 토마토를 서로 다른 도마에서 손질하여 교차오염을 예방하는 모습을 보여 주는 사진. 제공: CDC/Kelsey Schwarz, 촬영: Lauren Bishop, 2023. [사진 상세 페이지](https://wwwn.cdc.gov/phil/Details.aspx?pid=27991)
+17. <a id="ref-17"></a>**「5 Red Flags to Look For When Shopping for Meal Kits」** — 미국 식품의약국(FDA). 밀키트 수령 시 상자·포장·누출·식품 온도 확인 안내. [자료 링크](https://www.fda.gov/food/buy-store-serve-safe-food/5-red-flags-look-when-shopping-meal-kits)
