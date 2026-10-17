@@ -1,4 +1,4 @@
-# 🥦 냉장고 속 식품 보관
+#  냉장고 속 식품 보관
 
 > 식품을 종류별로 구분하고, 알맞은 용기와 위치에 보관하며, 장보기부터 조리까지 교차오염을 줄이는 방법을 알아봅니다.
 
@@ -231,7 +231,7 @@ USDA의 배달·포장 음식 표에서는 **4℃ 이하로 냉장한 조리 육
 
 냉장고를 열었을 때는 세 가지만 먼저 떠올리면 됩니다. **차갑게 유지됐는가, 새거나 닿지 않았는가, 언제 넣거나 열었는가**입니다. 냄새와 겉모습만으로 답을 낼 수 없거나 보관 시간을 알 수 없는 식품은 조금 맛보아 확인하지 않습니다. 보관 조건을 지키지 못했거나 교차오염 가능성이 있다면 아까운 마음보다 안전을 우선합니다.
 
-## 📚 참고 자료
+##  참고 자료
 아래 자료를 참고하여 내용을 작성했습니다.
 
 1. <a id="ref-1"></a>**「4 Steps to Food Safety」** — 미국 보건복지부(HHS), FoodSafety.gov. 냉장 4℃ 이하·냉동 −18℃ 이하, 상온 2시간·32℃ 초과 시 1시간 기준과 해동 안내. [자료 링크](https://www.foodsafety.gov/keep-food-safe/4-steps-to-food-safety)
@@ -252,3 +252,15 @@ USDA의 배달·포장 음식 표에서는 **4℃ 이하로 냉장한 조리 육
 16. <a id="ref-16"></a>**「CDC PHIL Image ID 27991」** — 미국 질병통제예방센터 공중보건 이미지 자료실(CDC PHIL). 생닭과 토마토를 서로 다른 도마에서 손질하여 교차오염을 예방하는 모습을 보여 주는 사진. 제공: CDC/Kelsey Schwarz, 촬영: Lauren Bishop, 2023. [사진 상세 페이지](https://wwwn.cdc.gov/phil/Details.aspx?pid=27991)
 17. <a id="ref-17"></a>**「5 Red Flags to Look For When Shopping for Meal Kits」** — 미국 식품의약국(FDA). 밀키트 수령 시 상자·포장·누출·식품 온도 확인 안내. [자료 링크](https://www.fda.gov/food/buy-store-serve-safe-food/5-red-flags-look-when-shopping-meal-kits)
 18. <a id="ref-18"></a>**「Safe Handling of Take-Out Foods」** — 미국 농무부 식품안전검사국(USDA FSIS). 배달 후 2시간·32℃ 초과 시 1시간 냉장 기준, 소분·얕은 용기, 식품별 냉장 기간 안내. [자료 링크](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-handling-take-out-foods)
+
+### 그림 출처와 이용 조건
+
+| 그림 | 제작·제공 기관 및 원본 | 이용 방식 |
+| --- | --- | --- |
+| 1. 장보기 단계의 분리 | CDC 제작. [원본 자료](https://www.cdc.gov/food-safety/media/pdfs/fsem-2022-508.pdf) | 원문 문구와 기관 표시를 유지한 패널을 사용했습니다. |
+| 2. 용기·소분·날짜 표시 | 참고자료 12·13을 바탕으로 이 문서를 위해 자체 제작 | 자체 제작임을 표시하고, 라벨 날짜가 예시임을 밝혔습니다. |
+| 3. 냉장고 안의 분리 | CDC 제작. [원본 자료](https://www.cdc.gov/food-safety/media/pdfs/fsem-2022-508.pdf) | 원문 문구와 기관 표시를 유지한 패널을 사용했습니다. |
+| 4. 식품과 도구의 분리 | CDC PHIL, Image ID 27991. 제공: CDC/Kelsey Schwarz, 촬영: Lauren Bishop. [사진 상세 페이지](https://wwwn.cdc.gov/phil/Details.aspx?pid=27991) | Public Domain 자료이며, CDC·촬영자·CDC 원본 페이지를 표시했습니다. |
+| 5. 냉장고 식품 배치 예시 | 참고자료 1·2·3·11을 바탕으로 이 문서를 위해 자체 제작 | 특정 제품의 고정 배치가 아닌 원칙 적용 예시임을 표시했습니다. |
+
+CDC 자료는 기관의 자료 이용 정책을 확인하여 출처와 기관 표시를 유지했습니다. 이 문서에서 CDC 자료를 사용한 것은 CDC·HHS 또는 미국 정부가 이 과제나 작성자를 승인하거나 후원한다는 뜻이 아닙니다. 이용 조건은 CDC의 [「Use of Agency Materials」](https://www.cdc.gov/other/agencymaterials.html)에서 확인할 수 있습니다.
