@@ -25,22 +25,26 @@ flowchart LR
 
 *그림 1. 일반적인 증기 압축식 냉장고의 열 이동과 냉매 순환을 단순화한 자체 제작 개념도입니다. GitHub에서 Mermaid 그림으로 표시됩니다.*
 
-냉장고는 냉매가 순환하면서 내부의 열을 외부로 옮기는 방식으로 작동합니다. 위 그림은 전체 흐름을 이해하기 위한 안내이며, 각 부품의 역할은 주요 부품 문서에서, 냉매의 상태 변화와 순환 과정은 냉각 원리 문서에서 자세히 다룰 예정입니다.
+냉장고는 냉매가 순환하면서 내부의 열을 외부로 옮기는 방식으로 작동합니다. 위 그림은 전체 흐름을 이해하기 위한 안내이며, 각 부품의 역할은 주요 부품 문서에서, 냉매의 상태 변화와 순환 과정은 냉각 원리 문서에서 자세히 설명합니다.
 
 ## 문서 목차 및 역할 분담
 
-현재는 전체 소개 README를 먼저 작성하는 단계입니다. 아래 파일은 각 담당자가 자신의 브랜치에서 작성하며, 본문이 추가되면 해당 제목에 문서 링크를 연결합니다.
+아래 목차에서 각 문서 제목이나 파일 링크를 클릭하면 담당 문서로 이동합니다. 각 문서는 팀원별 브랜치에서 작성하고 PR 검토를 거쳐 main에 반영합니다.
 
-| 담당 | 주제 | 주요 내용 | 작성할 파일 |
+| 담당 | 주제 | 주요 내용 | 문서 파일 |
 | --- | --- | --- | --- |
-| 김신권 ([@sin-nnn](https://github.com/sin-nnn)) | 냉장고의 역사와 종류 | 등장 배경, 발전 과정, 용도에 따른 종류 | `docs/01-history-and-types.md` |
-| 정승민 ([@jnikem](https://github.com/jnikem)) | 냉장고의 주요 부품 | 압축기, 응축기, 팽창장치, 증발기의 역할 | `docs/02-components.md` |
-| 최예윤 ([@yunn1215](https://github.com/yunn1215)) | 냉장고의 냉각 원리 | 열 이동, 냉매의 상태 변화, 냉각 사이클 | `docs/03-cooling-principle.md` |
-| 황인성 ([@spseong](https://github.com/spseong)) | 냉장실·냉동실과 온도 관리 | 공간별 역할, 냉기 순환, 온도 변화 요인 | `docs/04-temperature-management.md` |
-| 이견희 ([@GyunHeee](https://github.com/GyunHeee)) | 냉장고 사용과 관리 | 설치 환경, 청소, 문 패킹 관리, 에너지 절약 | `docs/05-use-and-care.md` |
-| 정형선 ([@hseon20](https://github.com/hseon20)) | 냉장고 속 식품 보관 | 식품 분류, 보관 용기, 배치, 교차오염 예방 | `docs/06-food-storage.md` |
+| 김신권 ([@sin-nnn](https://github.com/sin-nnn)) | [냉장고의 역사와 종류](docs/01-history-and-types.md) | 등장 배경, 발전 과정, 용도에 따른 종류 | [01-history-and-types.md](docs/01-history-and-types.md) |
+| 정승민 ([@jnikem](https://github.com/jnikem)) | [냉장고의 주요 부품](docs/02-components.md) | 압축기, 응축기, 팽창장치, 증발기의 역할 | [02-components.md](docs/02-components.md) |
+| 최예윤 ([@yunn1215](https://github.com/yunn1215)) | [냉장고의 냉각 원리](docs/03-cooling-principle.md) | 열 이동, 냉매의 상태 변화, 냉각 사이클 | [03-cooling-principle.md](docs/03-cooling-principle.md) |
+| 황인성 ([@spseong](https://github.com/spseong)) | [냉장실·냉동실과 온도 관리](docs/04-temperature-management.md) | 공간별 역할, 냉기 순환, 온도 변화 요인 | [04-temperature-management.md](docs/04-temperature-management.md) |
+| 이견희 ([@GyunHeee](https://github.com/GyunHeee)) | [냉장고 사용과 관리](docs/05-use-and-care.md) | 설치 환경, 청소, 문 패킹 관리, 에너지 절약 | [05-use-and-care.md](docs/05-use-and-care.md) |
+| 정형선 ([@hseon20](https://github.com/hseon20)) | [냉장고 속 식품 보관](docs/06-food-storage.md) | 식품 분류, 보관 용기, 배치, 교차오염 예방 | [06-food-storage.md](docs/06-food-storage.md) |
 
 주요 부품 문서는 부품 각각의 기능을 설명하고, 냉각 원리 문서는 부품들이 연결되어 작동하는 과정을 설명합니다. 온도 관리 문서는 냉장고 내부 환경에, 식품 보관 문서는 식품을 다루는 방법에 집중하여 내용의 중복을 줄입니다.
+
+### 5번 문서 읽기 안내
+
+[냉장고 사용과 관리](docs/05-use-and-care.md)는 설치, 내부 청소, 문 패킹 관리, 에너지 절약, 관리 체크리스트, 참고자료 순서로 구성했습니다. 설치 환경과 청소 순서를 보여주는 그림 2개, 상황별 확인표, 자주 묻는 질문을 함께 제공합니다. 문서 상단의 링크를 통해 이 README로 돌아올 수 있습니다.
 
 ## 문서 작성 기준
 
