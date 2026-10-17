@@ -113,7 +113,7 @@ flowchart LR
 <table>
 <tr>
 <td width="45%" valign="middle" align="center">
-  <img width="300" height="300" alt="commercial-fridge" src="https://github.com/user-attachments/assets/10811658-c77a-47c5-bc50-a93ea9bbde78" />
+  <img width="300" height="310" alt="commercial-fridge" src="https://github.com/user-attachments/assets/10811658-c77a-47c5-bc50-a93ea9bbde78" />
   <br>
 </td>
 <td width="55%" valign="middle">
@@ -134,3 +134,5 @@ flowchart LR
 | 문 여닫는 횟수 | 적음 | 매우 많음 |
 | 압축기 | 조용하고 효율 중심 | 강한 냉각 성능 중심 |
 | 내부 소재 | 플라스틱 위주 | 스테인리스 위주 |
+
+## 5. 정리 
