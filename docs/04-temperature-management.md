@@ -56,10 +56,10 @@
 또한 앞에서 살펴본 것처럼 내부에는 위치별 온도 차이가 있습니다. 따라서 냉장실을 3℃로 설정했다고 해서 모든 위치와 식품이 항상 정확히 3℃가 되는 것은 아닙니다. 설정 온도는 조절의 기준이며, 실제 온도는 위치와 시간, 사용 조건에 따라 달라질 수 있습니다.
 
 ## 5. 그림과 해설
-
-<!-- 냉기 흐름도를 추가하고, 그림의 화살표와 순환 과정을 설명할 예정. -->
+<img width="3600" height="2760" alt="04-refrigerator-circulation-control" src="https://github.com/user-attachments/assets/7a791349-f5a4-4ce8-aac0-c01fdaa93066" />
 
 ## 6. 정리
+
 
 ## 7. 참고자료
 - 미국 식품의약국(FDA), [Are You Storing Food Safely?](https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely)
