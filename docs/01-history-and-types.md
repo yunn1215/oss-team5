@@ -67,7 +67,7 @@ flowchart LR
 <table>
 <tr>
 <td width="45%" valign="top" align="center">
-    <img width="1284" height="1738" alt="first-freezer" src="https://github.com/user-attachments/assets/1d0d843e-3c3d-4330-87e4-74262dc4eab1" />
+    <img width="200" height="250" alt="first-freezer" src="https://github.com/user-attachments/assets/1d0d843e-3c3d-4330-87e4-74262dc4eab1" />
 
   <br>
 </td>
@@ -94,7 +94,7 @@ flowchart LR
 <table>
 <tr>
 <td width="45%" valign="top" align="center">
-<img width="1000" height="1000" alt="modern-fridge" src="https://github.com/user-attachments/assets/96af2ea7-23bd-4810-b7d8-cf7be4232eb6" />
+<img width="200" height="250" alt="modern-fridge" src="https://github.com/user-attachments/assets/96af2ea7-23bd-4810-b7d8-cf7be4232eb6" />
   <br>
 </td>
 <td width="55%" valign="top">
@@ -103,3 +103,36 @@ flowchart LR
 </td>
 </tr>
 </table>
+
+## 4. 업소용 냉장고
+### 4-1. 업소용 냉장고 특징
+업소용 냉장고는 식당, 편의점, 마트, 공장처럼 많은 음식을 다루는 곳에서 쓰는 냉장고입니다. 사실 기계식 냉동은 가정보다 양조장, 육류 공장, 냉동 창고 같은 산업 현장에서 먼저 쓰였습니다. 지금도 대형 냉동 창고에서는 효율이 높은 암모니아 냉매를 쓰는 경우가 있습니다.
+
+업소용 냉장고는 하루에도 문을 수십 번씩 여닫고, 한 번에 많은 양을 보관해야 합니다. 그래서 가정용보다 압축기 성능이 강하고, 온도가 올라가도 빨리 다시 차가워지도록 만들어집니다. 내부는 청소하기 쉽고 위생 관리에 유리한 스테인리스 소재를 많이 씁니다.
+### 4-2. 업소용 냉장고의 종류
+<table>
+<tr>
+<td width="45%" valign="middle" align="center">
+  <img width="300" height="310" alt="commercial-fridge" src="https://github.com/user-attachments/assets/10811658-c77a-47c5-bc50-a93ea9bbde78" />
+  <br>
+</td>
+<td width="55%" valign="middle">
+  주방용 냉장고: 식당 주방에서 쓰는 스테인리스 냉장고로, 작업대 아래에 넣는 형태도 있습니다.<br><br>
+  쇼케이스 냉장고: 편의점 음료 냉장고처럼 유리문으로 안을 보여 주는 냉장고입니다.<br><br>
+  워크인 냉장고: 사람이 걸어 들어갈 수 있는 방 크기의 냉장 공간입니다.<br><br>
+  냉동 창고: 공장과 물류 센터에서 대량의 식품을 보관하는 시설입니다.
+</td>
+</tr>
+</table>
+
+
+### 가정용과 업소용의 비교
+| 구분 | 가정용 냉장고 | 업소용 냉장고 |
+|---|---|---|
+| 사용 장소 | 가정 | 식당, 편의점, 마트, 공장 |
+| 보관량 | 가족 단위 | 대용량 |
+| 문 여닫는 횟수 | 적음 | 매우 많음 |
+| 압축기 | 조용하고 효율 중심 | 강한 냉각 성능 중심 |
+| 내부 소재 | 플라스틱 위주 | 스테인리스 위주 |
+
+## 5. 정리 
