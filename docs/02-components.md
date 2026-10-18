@@ -93,6 +93,7 @@
 직냉식 냉장고에는 보통 제상 히터가 없어서, 냉동실 벽에 성에가 두껍게 쌓이면 사용자가 전원을 끄고 직접 녹여야 합니다.
 
 > 💡 제상 중에는 냉장고 안에서 물 떨어지는 소리나 '지직' 하는 소리가 날 수 있는데, 대부분 정상적인 동작입니다. 소리가 계속되거나 냉장이 안 된다면 제조사 서비스센터에 점검을 요청합니다.
+ ([참고자료 3](#6-참고자료))
 
 ### 3.3 온도 센서와 제어부 (Sensor & Control Board)
 
@@ -178,5 +179,20 @@ flowchart LR
 
 ## 6. 참고자료
 
+
+**외부 자료**
+
+1. 위키백과(영문), [Vapor-compression refrigeration](https://en.wikipedia.org/wiki/Vapor-compression_refrigeration) — 증기 압축식 냉동 방식과 압축기·응축기·팽창장치·증발기의 구성
+2. 위키백과(영문), [Refrigerator](https://en.wikipedia.org/wiki/Refrigerator) — 가정용 냉장고의 구조와 성에 제거(제상) 방식
+3. LG전자 고객지원, [작동 시 이상한 소음(드르륵, 웅, 웽, 다다닥)이 나요](https://www.lge.co.kr/support/solutions-20152438298346) — 압축기·팬·제상 작동 시 나는 소리 안내 (5장 점검표 근거)
+4. 삼성전자서비스, [냉기가 약하고 시원하지 않아요](https://www.samsungsvc.co.kr/solution/35637) — 통풍구 막힘, 설치 간격 등 냉각이 약해지는 원인
+
+
+**함께 읽으면 좋은 팀 문서**
+
+- [냉장고의 냉각 원리](03-cooling-principle.md) — 냉매의 상태 변화와 순환 과정
+- [냉장실·냉동실과 온도 관리](04-temperature-management.md) — 냉기 순환과 설정 온도
+- [냉장고 사용과 관리](05-use-and-care.md) — 설치 간격과 청소 방법
+
 ---
-[← 이전](01-history-and-types.md) | [목차](../README.md) | [다음 →](03-cooling-principle.md)
+[← 이전: 역사와 종류](01-history-and-types.md) | [목차](../README.md) | [다음: 냉각 원리 →](03-cooling-principle.md)
