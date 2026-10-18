@@ -195,4 +195,4 @@ flowchart LR
 - [냉장고 사용과 관리](05-use-and-care.md) — 설치 간격과 청소 방법
 
 ---
-[← 이전](01-history-and-types.md) | [목차](../README.md) | [다음 →](03-cooling-principle.md)
+[← 이전: 역사와 종류](01-history-and-types.md) | [목차](../README.md) | [다음: 냉각 원리 →](03-cooling-principle.md)
