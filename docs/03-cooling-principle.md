@@ -119,3 +119,6 @@
 - Vapor-compression refrigeration, Wikipedia, https://en.wikipedia.org/wiki/Vapor-compression_refrigeration
 - Montreal Protocol, Wikipedia, https://en.wikipedia.org/wiki/Montreal_Protocol
 - 그림 1은 담당자가 직접 제작한 자료입니다.
+
+---
+[⬅️ 이전: 냉장고의 주요 부품](02-components.md) · [🏠 README로 돌아가기](../README.md) · [다음: 냉장실·냉동실과 온도 관리 ➡️](04-temperature-management.md)
