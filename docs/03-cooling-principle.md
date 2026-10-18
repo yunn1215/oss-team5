@@ -116,3 +116,4 @@
 
 ## 📚 참고 자료
 - 냉장고, 위키백과, https://ko.wikipedia.org/wiki/냉장고
+- Vapor-compression refrigeration, Wikipedia, https://en.wikipedia.org/wiki/Vapor-compression_refrigeration
