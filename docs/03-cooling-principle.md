@@ -117,3 +117,5 @@
 ## 📚 참고 자료
 - 냉장고, 위키백과, https://ko.wikipedia.org/wiki/냉장고
 - Vapor-compression refrigeration, Wikipedia, https://en.wikipedia.org/wiki/Vapor-compression_refrigeration
+- Montreal Protocol, Wikipedia, https://en.wikipedia.org/wiki/Montreal_Protocol
+- 그림 1은 담당자가 직접 제작한 자료입니다.
