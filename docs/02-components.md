@@ -186,5 +186,12 @@ flowchart LR
 3. LG전자 고객지원, [작동 시 이상한 소음(드르륵, 웅, 웽, 다다닥)이 나요](https://www.lge.co.kr/support/solutions-20152438298346) — 압축기·팬·제상 작동 시 나는 소리 안내 (5장 점검표 근거)
 4. 삼성전자서비스, [냉기가 약하고 시원하지 않아요](https://www.samsungsvc.co.kr/solution/35637) — 통풍구 막힘, 설치 간격 등 냉각이 약해지는 원인
 
+
+**함께 읽으면 좋은 팀 문서**
+
+- [냉장고의 냉각 원리](03-cooling-principle.md) — 냉매의 상태 변화와 순환 과정
+- [냉장실·냉동실과 온도 관리](04-temperature-management.md) — 냉기 순환과 설정 온도
+- [냉장고 사용과 관리](05-use-and-care.md) — 설치 간격과 청소 방법
+
 ---
 [← 이전](01-history-and-types.md) | [목차](../README.md) | [다음 →](03-cooling-principle.md)
