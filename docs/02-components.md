@@ -178,5 +178,13 @@ flowchart LR
 
 ## 6. 참고자료
 
+
+**외부 자료**
+
+1. 위키백과(영문), [Vapor-compression refrigeration](https://en.wikipedia.org/wiki/Vapor-compression_refrigeration) — 증기 압축식 냉동 방식과 압축기·응축기·팽창장치·증발기의 구성
+2. 위키백과(영문), [Refrigerator](https://en.wikipedia.org/wiki/Refrigerator) — 가정용 냉장고의 구조와 성에 제거(제상) 방식
+3. LG전자 고객지원, [작동 시 이상한 소음(드르륵, 웅, 웽, 다다닥)이 나요](https://www.lge.co.kr/support/solutions-20152438298346) — 압축기·팬·제상 작동 시 나는 소리 안내 (5장 점검표 근거)
+4. 삼성전자서비스, [냉기가 약하고 시원하지 않아요](https://www.samsungsvc.co.kr/solution/35637) — 통풍구 막힘, 설치 간격 등 냉각이 약해지는 원인
+
 ---
 [← 이전](01-history-and-types.md) | [목차](../README.md) | [다음 →](03-cooling-principle.md)
